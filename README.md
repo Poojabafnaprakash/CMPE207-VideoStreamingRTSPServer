@@ -16,8 +16,8 @@ Some of the characteristics of the video streaming server are:
 Some of the use-case diagrams:<br/>
 1) Use-case diagram to show multithreading for our server
 <img width="544" alt="screen shot 2017-01-27 at 7 24 04 pm" src="https://cloud.githubusercontent.com/assets/17193889/22393911/955dd332-e4c6-11e6-935c-9ceab007acf8.png"><br/>
-2) Shows for RTSP is used to maintain session end points: 
+2) Shows how RTSP is used to maintain session end points: 
 <img width="517" alt="screen shot 2017-01-27 at 7 27 30 pm" src="https://cloud.githubusercontent.com/assets/17193889/22394018/7c30d8a2-e4c9-11e6-8f76-d57bdfbd7300.png"><br/>
-3) Shows the for analytics information is stored
+3) Shows how the analytics information is stored
 <img width="803" alt="screen shot 2017-01-27 at 7 23 30 pm" src="https://cloud.githubusercontent.com/assets/17193889/22394025/922e35aa-e4c9-11e6-8a07-15290dbd3f8c.png">
 
